@@ -1,6 +1,5 @@
 "use client";
 
-import zIndex from "@mui/material/styles/zIndex";
 import { motion } from "framer-motion";
 import styled from "styled-components";
 
