@@ -107,7 +107,7 @@ export default function Card() {
 
           <ImageContainer elevation={3}>
          
-            <StyledTitle variant="h5">Your Name</StyledTitle>
+            <StyledTitle variant="h5">Garima!!</StyledTitle>
           </ImageContainer>
 
           <MessageContainer>
@@ -117,8 +117,8 @@ export default function Card() {
             <MessageParagraph variant="body1">
               May all your dreams and wishes come true, and may you feel this happiness all year round.
             </MessageParagraph>
-            <SignatureFrom variant="body1">With love,</SignatureFrom>
-            <SignatureName variant="body1">Your Friend</SignatureName>
+            <SignatureFrom variant="body1">With love.</SignatureFrom>
+            <SignatureName variant="body1"></SignatureName>
           </MessageContainer>
 
           <EmojiContainer>
